@@ -1,0 +1,12 @@
+C:\Users\mhsid\source\repos\StudentDataBase\bin\Debug\StudentDataBase.exe.config
+C:\Users\mhsid\source\repos\StudentDataBase\bin\Debug\StudentDataBase.exe
+C:\Users\mhsid\source\repos\StudentDataBase\bin\Debug\StudentDataBase.pdb
+C:\Users\mhsid\source\repos\StudentDataBase\bin\Debug\EntityFramework.dll
+C:\Users\mhsid\source\repos\StudentDataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mhsid\source\repos\StudentDataBase\bin\Debug\EntityFramework.xml
+C:\Users\mhsid\source\repos\StudentDataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mhsid\source\repos\StudentDataBase\obj\Debug\StudentDataBase.csproj.AssemblyReference.cache
+C:\Users\mhsid\source\repos\StudentDataBase\obj\Debug\StudentDataBase.csproj.CoreCompileInputs.cache
+C:\Users\mhsid\source\repos\StudentDataBase\obj\Debug\StudentDataBase.csproj.CopyComplete
+C:\Users\mhsid\source\repos\StudentDataBase\obj\Debug\StudentDataBase.exe
+C:\Users\mhsid\source\repos\StudentDataBase\obj\Debug\StudentDataBase.pdb
