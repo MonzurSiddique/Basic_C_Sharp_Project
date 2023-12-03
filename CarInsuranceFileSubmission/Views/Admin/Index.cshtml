@@ -1,0 +1,50 @@
+﻿@using CarInsurance.ViewModels;
+@model List<InsureeVm>
+
+<div class="row-no-gutters m-3">
+    <div class="card col-sm-12 col-md-12 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Here is your quotation details:</h5>
+            <div class="card-body">
+                @foreach (var insuree in Model)
+                {
+                <div class="row">
+                    <div class="col">
+                        @insuree.FirstName
+                    </div>
+                    <div class="col">
+                        @insuree.LastName
+                    </div>
+                    <div class="col">
+                        @insuree.EmailAddress
+                    </div>
+                    <div class="col">
+                        @insuree.DateOfBirth
+                    </div>
+                    <div class="col">
+                        @insuree.CarMake
+                    </div>
+                    <div class="col">
+                        @insuree.CarModel
+                    </div>
+                    <div class="col">
+                        @insuree.CarYear
+                    </div>
+                    <div class="col">
+                        @insuree.DUI
+                    </div>
+                    <div class="col">
+                        @insuree.CoverageType
+                    </div>
+                    <div class="col">
+                        @insuree.Quote
+                    </div>
+
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+
